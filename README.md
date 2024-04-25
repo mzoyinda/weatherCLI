@@ -72,7 +72,7 @@ OR
   sudo npm install -g
 ```
 
-To run the weather forecast, for any of the given location, simply enter the location  execute the following command:
+To run the weather forecast, for any of the given locations, simply enter the location  and execute the following command:
 
 ```sh
   {location}
@@ -98,7 +98,4 @@ Example: To get Lagos weather forecast just enter into the terminal:
 
 
 ### Future Improvements
-<li>Expand the CLI Application to accommodate more cities</li>
-<li>Expand the CLI Application to accommodate more hourly and daily readings</li>
-<li>Create a User Interface for the Application</li>
-<li>Read Weather forecast with charts and graphs</li>
+Check out <a href="https://docs.google.com/document/d/1xEXRsYxRBnrnPxse34pwpRyZIq82RulRRoMOmYcOru8/edit?usp=sharing">Google Links Docs</a> for future improvements.
