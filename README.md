@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h2><b>Weather CLI App README</b></h2>
+  <h2><b>Weather Command Line App README</b></h2>
 </div>
 
 <!-- PROJECT DESCRIPTION -->
