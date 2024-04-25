@@ -35,8 +35,6 @@ function getWeather(location) {
         snowfall: `${current.snowfall}${units.snowfall}`,
       };
 
-      console.log(weatherData);
-
       console.log(
           `The weather forecast for ${location.place}, ${date} at this current time ${time} \n with longitude of ${longitude} and latitude of ${latitude} is as follows: \n`,
           `The temperature is: ${weatherData.temperature2m},\n the relative humidity is: ${weatherData.relativeHumidity2m},\n the apparent temperature is: ${weatherData.apparentTemperature},\n it is ${weatherData.isDay ? 'daytime' : 'nighttime'},\n the precipitation is: ${weatherData.precipitation},\n the rain: ${weatherData.rain},\n the showers: ${weatherData.showers},\n and the snowfall: ${weatherData.snowfall}`
