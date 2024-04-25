@@ -20,10 +20,8 @@
 > Hamburg,
 
 ## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack 
 <li>NodeJS</li>
-<li><a href="https://open-meteo.com/">OpenMeteo</a><li>
+<li><a href="https://open-meteo.com/">OpenMeteo</a></li>
 
 
 ### Key Features <a name="key-features"></a>
@@ -86,6 +84,7 @@ Example: To get Lagos weather forecast just enter into the terminal:
 ```
 
 #### Screenshot of output
+![Lagos Weather Forecast](https://github.com/mzoyinda/weatherCLI/blob/main/image.png)
 
 #### other cities keywords are as follows:
 > lagos,
